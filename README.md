@@ -5,4 +5,6 @@ This Repository is created to store my Deep learning related practice exercises 
 
 Added basic necessary activation functions
 
+Added RNN python notebooks
+
 Thanks
