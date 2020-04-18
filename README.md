@@ -1,7 +1,7 @@
 # DeepLearning
 Deep Learning practice
 
-This Repository contains my Deep learning related practice exercises and projects.
+This Repository contains my Deep learning related practice exercises and projects (using pytorch).
 
 Added basic necessary activation functions
 
@@ -13,4 +13,3 @@ CNNs
 
 GANs
  
-using pytorch
