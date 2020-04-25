@@ -7,7 +7,7 @@ Added basic necessary activation functions
 
 ANN
 
-RNN python notebooks
+RNN 
 
 CNNs
 
