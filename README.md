@@ -16,3 +16,4 @@ GANs
 Projects:
 
 1. Bike Sharing Predictions
+2. Dog Breed Classification
