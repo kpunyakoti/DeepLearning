@@ -15,5 +15,5 @@ GANs
  
 Projects:
 
-1. Bike Sharing Predictions
-2. Dog Breed Classification
+1. Bike Sharing Predictions (MLP)
+2. Dog Breed Classification (CNN)
