@@ -17,4 +17,4 @@ Projects:
 
 1. Bike Sharing Predictions (MLP)
 2. Dog Breed Classification (CNN)
-3. TV Script Generation
+3. TV Script Generation (RNN)
