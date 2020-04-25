@@ -15,4 +15,4 @@ GANs
  
 Projects:
 
-1. Bike Sharing
+1. Bike Sharing Predictions
