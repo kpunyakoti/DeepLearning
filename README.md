@@ -9,7 +9,7 @@ Artificial NeuralNets using MultiLayer Perceptrons
 
 Recurrent NeuralNets(RNN) using LSTMs 
 
-CNNs 
+Convolutional NeuralNets(CNN)
 
 GANs
  
