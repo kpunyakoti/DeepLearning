@@ -7,9 +7,9 @@ Added basic necessary activation functions
 
 Artificial NeuralNets using MultiLayer Perceptrons
 
-RNN 
+Recurrent NeuralNets(RNN) using LSTMs 
 
-CNNs
+CNNs 
 
 GANs
  
