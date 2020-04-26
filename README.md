@@ -5,7 +5,7 @@ This Repository contains my Deep learning related practice exercises and project
 
 Added basic necessary activation functions
 
-ANN using MultiLayer Perceptrons
+Artificial NeuralNets using MultiLayer Perceptrons
 
 RNN 
 
