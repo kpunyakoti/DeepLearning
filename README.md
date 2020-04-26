@@ -11,7 +11,7 @@ Recurrent NeuralNets(RNN) using LSTMs
 
 Convolutional NeuralNets(CNN)
 
-GANs
+Generative Adversarial Networks(GANs)
  
 Projects:
 
