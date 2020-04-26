@@ -5,13 +5,13 @@ This Repository contains my Deep learning related practice exercises and project
 
 Added basic necessary activation functions
 
-Artificial NeuralNets using MultiLayer Perceptrons
+->Artificial NeuralNets using MultiLayer Perceptrons
 
-Recurrent NeuralNets(RNN) using LSTMs 
+->Recurrent NeuralNets(RNN) using LSTMs 
 
-Convolutional NeuralNets(CNN)
+->Convolutional NeuralNets(CNN)
 
-Generative Adversarial Networks(GANs)
+->Generative Adversarial Networks(GANs)
  
 Projects:
 
