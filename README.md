@@ -3,7 +3,7 @@ Deep Learning practice
 
 This Repository contains my Deep learning related practice exercises and projects (using pytorch).
 
-Added basic necessary activation functions
+Contents:
 
 ->Artificial NeuralNets using MultiLayer Perceptrons
 
