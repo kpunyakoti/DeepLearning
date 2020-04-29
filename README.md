@@ -19,3 +19,5 @@ Projects:
 2. Dog Breed Classification (CNN)
 3. TV Script Generation (RNN)
 4. Faces Generation (GANs)
+5. End-to-End project deployment on AWS
+   (senitment Analysis)
