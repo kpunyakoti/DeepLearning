@@ -21,3 +21,4 @@ Projects:
 4. Faces Generation (GANs)
 5. End-to-End project deployment on AWS
    (senitment Analysis)
+<END>
